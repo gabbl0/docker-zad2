@@ -10,8 +10,8 @@ export default () => {
       <br />
       <ul>
         <li>funkcja fib w części worker zmieniona na funkcję gs obliczającą wartości dla ciągu geometrycznego</li>
-        <li>w części client fib.js zmienionw na gs.js i zmieniony tekst </li>
-        <li>zmieniony tekst strony głównej (App.js)</li>
+        <li>w części client fib.js zmienionw na gs.js i zmieniona treść </li>
+        <li>zmieniona treść strony głównej (App.js)</li>
         <li>zaaktualizowana strona Documentation</li>
         <li></li>
       </ul>
