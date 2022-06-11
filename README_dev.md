@@ -1,1 +1,1 @@
-docker build -f "Dockerfile.dev" -t gabbla1/zad2:devclient .
+docker compose -f docker-compose.dev.yml up -d
